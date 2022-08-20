@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Link Web Hostingnya nih Bro
+Open [https://khairul-react-fundamental22.vercel.app](https://khairul-react-fundamental22.vercel.app/)
+
 ## Available Scripts
 
 In the project directory, you can run:
